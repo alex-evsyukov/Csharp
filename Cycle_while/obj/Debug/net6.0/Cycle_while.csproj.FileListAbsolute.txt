@@ -1,0 +1,15 @@
+C:\Users\Alex\Documents\GeekBrains\Упражнения\C#\Seminar_1\Cycle_while\obj\Debug\net6.0\Cycle_while.csproj.AssemblyReference.cache
+C:\Users\Alex\Documents\GeekBrains\Упражнения\C#\Seminar_1\Cycle_while\obj\Debug\net6.0\Cycle_while.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\Documents\GeekBrains\Упражнения\C#\Seminar_1\Cycle_while\obj\Debug\net6.0\Cycle_while.AssemblyInfoInputs.cache
+C:\Users\Alex\Documents\GeekBrains\Упражнения\C#\Seminar_1\Cycle_while\obj\Debug\net6.0\Cycle_while.AssemblyInfo.cs
+C:\Users\Alex\Documents\GeekBrains\Упражнения\C#\Seminar_1\Cycle_while\obj\Debug\net6.0\Cycle_while.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Documents\GeekBrains\Упражнения\C#\Seminar_1\Cycle_while\bin\Debug\net6.0\Cycle_while.exe
+C:\Users\Alex\Documents\GeekBrains\Упражнения\C#\Seminar_1\Cycle_while\bin\Debug\net6.0\Cycle_while.deps.json
+C:\Users\Alex\Documents\GeekBrains\Упражнения\C#\Seminar_1\Cycle_while\bin\Debug\net6.0\Cycle_while.runtimeconfig.json
+C:\Users\Alex\Documents\GeekBrains\Упражнения\C#\Seminar_1\Cycle_while\bin\Debug\net6.0\Cycle_while.dll
+C:\Users\Alex\Documents\GeekBrains\Упражнения\C#\Seminar_1\Cycle_while\bin\Debug\net6.0\ref\Cycle_while.dll
+C:\Users\Alex\Documents\GeekBrains\Упражнения\C#\Seminar_1\Cycle_while\bin\Debug\net6.0\Cycle_while.pdb
+C:\Users\Alex\Documents\GeekBrains\Упражнения\C#\Seminar_1\Cycle_while\obj\Debug\net6.0\Cycle_while.dll
+C:\Users\Alex\Documents\GeekBrains\Упражнения\C#\Seminar_1\Cycle_while\obj\Debug\net6.0\ref\Cycle_while.dll
+C:\Users\Alex\Documents\GeekBrains\Упражнения\C#\Seminar_1\Cycle_while\obj\Debug\net6.0\Cycle_while.pdb
+C:\Users\Alex\Documents\GeekBrains\Упражнения\C#\Seminar_1\Cycle_while\obj\Debug\net6.0\Cycle_while.genruntimeconfig.cache
